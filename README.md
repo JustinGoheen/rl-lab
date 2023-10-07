@@ -2,11 +2,9 @@
 
 ## Overview
 
-RL Lab is a public template for artificial intelligence and machine learning research projects using Lightning AI's [PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/).
+RL Lab is a public template for artificial intelligence and reinforcement learning research projects using Lightning AI's [PyTorch Lightning](https://lightning.ai/docs/pytorch/stable/).
 
 The recommended way for RL Lab users to create new repos is with the [use this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) button.
-
-Adaptations can be found in my collection of [lab repos](https://github.com/stars/JustinGoheen/lists/lightning-labs).
 
 ## The Structure
 
