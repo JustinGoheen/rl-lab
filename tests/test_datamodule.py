@@ -17,7 +17,7 @@ from pathlib import Path
 
 import torch
 
-from lightninglab.pipeline.datamodule import LabDataModule
+from rllab.pipeline.datamodule import LabDataModule
 
 
 def test_module_not_abstract():

@@ -20,10 +20,10 @@ rootdir = Path(__file__).parent
 long_description = (rootdir / "README.md").read_text()
 
 setup(
-    name="lightninglab",
+    name="rllab",
     version="0.0.1",
     package_dir={"": "src"},
-    packages=["lightninglab"],
+    packages=["rllab"],
     description="",
     long_description=long_description,
     long_description_content_type="text/markdown",
